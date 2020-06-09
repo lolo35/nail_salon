@@ -17,7 +17,9 @@ import '../node_modules/@fortawesome/fontawesome-free/css/all.css';
 	}
 </script>
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
     body, html, #app{
         height: 100%;
+		font-family: 'Lobster', cursive;
     }
 </style>
