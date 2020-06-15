@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row mt-3">
             <div class="col-12">
-                <div class="card shadow mb-2">
+                <div class="card mb-2">
                     <div class="row no-gutters">
                         <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
                             <img src="../assets/hair-losing-tips-1.jpg" class="card-img" alt="">
